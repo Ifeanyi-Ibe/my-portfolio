@@ -9,7 +9,7 @@ import { Link } from "react-router-dom";
 export default function NavBar() {
   return (
     <div className="flex flex-col items-center space-y-5 mx-24 md:flex-row md:justify-between md:mx-48 py-6">
-      <h1 className="text-white font-sm font-bold text-xl">{`<dev_anyi>`}</h1>
+      <h1 className="font-sm font-bold text-xl text-green-700">{`<dev_anyi>`}</h1>
       <div className="flex md:justify-between space-x-4 md:space-x-6">
         <a
           href="https://www.github.com/Ifeanyi-Ibe?tab=repositories"
