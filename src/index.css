@@ -22,3 +22,8 @@ code {
   height: 450px;
   width: 420px;
 }
+
+.profile-pic-sm {
+  height: 300px;
+  width: 280px;
+}

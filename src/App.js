@@ -7,7 +7,7 @@ function App() {
     <div className="pb-16">
       <NavBar />
       <Profile />
-      <hr className="text-white mx-48 pb-8" />
+      <hr className="text-white md:mx-48 pb-8" />
       <Skills />
     </div>
   );
